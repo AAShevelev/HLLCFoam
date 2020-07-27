@@ -1,0 +1,4 @@
+pimpleCentralDyMFoam.C
+
+EXE = $(FOAM_APPBIN)/pimpleCentralDyMFoam
+

@@ -1,0 +1,4 @@
+twoPhaseMixingCentralFoam.C
+
+EXE = $(FOAM_APPBIN)/twoPhaseMixingCentralFoam
+

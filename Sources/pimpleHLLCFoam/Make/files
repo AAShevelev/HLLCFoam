@@ -1,0 +1,3 @@
+pimpleHLLCFoam.C
+
+EXE = $(FOAM_APPBIN)/pimpleHLLCFoam

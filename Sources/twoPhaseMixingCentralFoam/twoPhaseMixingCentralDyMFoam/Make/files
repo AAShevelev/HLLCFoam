@@ -1,0 +1,4 @@
+twoPhaseMixingCentralDyMFoam.C
+
+EXE = $(FOAM_APPBIN)/twoPhaseMixingCentralDyMFoam
+

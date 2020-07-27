@@ -1,0 +1,3 @@
+chtMultiRegionCentralFoam.C
+
+EXE = $(FOAM_APPBIN)/chtMultiRegionCentralFoam
